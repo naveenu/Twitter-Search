@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Twitter Search</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="edit_text_twitter_search_hint">Enter Twitter search text</string>
+    <string name="button_twitter_search">Twitter Search</string>
+    <!-- Validation messages -->
+    <string name="enter_twitter_search_item">Please enter Twitter search text</string>
+    <string name="internet_not_available">You must be connected to the internet to use this application fully</string>
+
+    <!-- URL related finfig strings -->
+    <string name="twitter_token_url">https://api.twitter.com/oauth2/token</string>
+    <string name="twitter_search_url">https://api.twitter.com/1.1/search/tweets.json?q=</string>
+	
+    <!-- Popup related strings -->
+  	<string name="twitter_text_search_title">Twitter Text Search</string>  
+    <string name="please_wait">Search is in progress</string>  
+    <string name="stop">Stop</string>  
+    
+    <!-- Error message  -->
+    <string name="unknow_error">Unknow error.Please try again later</string>
+    
+    
+    
+</resources>
